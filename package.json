@@ -1,5 +1,5 @@
 {
-  "name": "spinal-lib-viewer-annotations-env",
+  "name": "spinal-lib-forge-env",
   "version": "1.0.0",
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
