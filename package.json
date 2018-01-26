@@ -5,7 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
-    "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
     "spinal-env-drive-plugin-forge": "https://github.com/spinalcom/spinal-env-drive-plugin-forge.git"
   },
   "devDependencies": {},
