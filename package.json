@@ -1,13 +1,12 @@
 {
-  "name": "spinal-lib-forge-env",
+  "name": "spinal-joint-drive_forge",
   "version": "1.0.1",
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
   "dependencies": {
-    "spinal-env-drive-core":
-      "https://github.com/spinalcom/spinal-env-drive-core.git",
-    "spinal-env-drive-plugin-forge":
-      "https://github.com/spinalcom/spinal-env-drive-plugin-forge.git"
+    "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
+    "spinal-env-drive-plugin-forge": "https://github.com/spinalcom/spinal-env-drive-plugin-forge.git",
+    "spinal-env-drive-plugin-forge_viewer": "https://github.com/spinalcom/spinal-env-drive-plugin-forge_viewer.git"
   },
   "devDependencies": {},
   "scripts": {
